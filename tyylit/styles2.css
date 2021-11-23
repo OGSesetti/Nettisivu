@@ -17,18 +17,18 @@ nav {
   background-color: gray;
   padding: 20px;
 
- a:link {
+ link {
   color: white;
 }
-a:visited {
-  color: white;
-}
-
-a:hover {
+visited {
   color: white;
 }
 
-a:active {
+hover {
+  color: white;
+}
+
+active {
   color: white;
 }
 }
