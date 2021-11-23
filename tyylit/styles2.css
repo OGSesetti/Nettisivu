@@ -4,7 +4,7 @@
 header {
   float: left;
   width: 100%;
-  background-color: blue;
+  background-color: gray;
   padding: 0px;
   text-align: center;
   font-size: 40px;
@@ -14,7 +14,7 @@ nav {
   float: left;
   width: 10%;
   height: 550px;
-  background-color: pink;
+  background-color: gray;
   padding: 20px;
 }
 
@@ -23,14 +23,14 @@ aside {
   float: right;
     padding: 20px;
   width: 90%;
-  background-color: lightblue;
+  background-color: lightgray;
   height: 550px;
 }
 
   footer {
   float: right;
      width: 100%;
-  background-color: blue;
+  background-color: gray;
   padding: 10px;
   text-align: center;
   color: white;
