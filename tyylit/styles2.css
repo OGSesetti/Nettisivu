@@ -16,23 +16,24 @@ nav {
   height: 550px;
   background-color: gray;
   padding: 20px;
-a:link {
-  color: red;
+
+ a:link {
+  color: white;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: white;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: white;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: white;
 }
 }
 
