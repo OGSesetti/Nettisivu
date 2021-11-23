@@ -12,7 +12,7 @@ header {
 }
 nav {
   float: left;
-  width: 40%;
+  width: 45%;
   height: 50px;
   background-color: pink;
   padding: 20px;
@@ -22,7 +22,7 @@ section {
   float: left;
   padding: 20px;
   width: 40%;
-  background-color: white;
+  background-color: gray;
   height: 250px;
 }
 article {
@@ -36,7 +36,7 @@ article {
 aside {
   float: right;
     padding: 20px;
-  width: 50%;
+  width: 45%;
   background-color: lightblue;
   height: 550px;
 }
