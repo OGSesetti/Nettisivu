@@ -7,3 +7,6 @@ body {color: white;}
 p {color: white;
 font-size: 15px;
 }
+img  {
+  float: right;
+}
